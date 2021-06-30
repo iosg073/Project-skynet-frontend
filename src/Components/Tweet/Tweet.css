@@ -1,0 +1,10 @@
+.tweet-wrapper{
+
+    border: 1px solid darkgray;
+    padding: 5px;
+    margin:25px 5px;
+
+    background-color: khaki;
+    width: 75%;
+
+}

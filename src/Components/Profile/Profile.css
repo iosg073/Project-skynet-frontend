@@ -1,0 +1,14 @@
+.profile-wrapper > div {
+    display: flex;
+    justify-content: space-around;
+}
+/* .profile-warapper img {
+    
+    flex: 0 0 25%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 75% 10%;
+    width: '200';
+
+
+} */
